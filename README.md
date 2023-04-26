@@ -1,7 +1,9 @@
-
+This is a super simple little api to run with ur app or postman to play with locally.
+I used the example from StableLM and expanded it.
+https://github.com/Stability-AI/StableLM
 
 Make sure Cuda is installed.
-make sure you use anaconda or miniconda
+i would recoment to use anaconda or miniconda
 
 install:
 ```
