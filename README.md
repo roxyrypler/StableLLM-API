@@ -3,6 +3,10 @@ I used the example from StableLM and expanded it.
 https://github.com/Stability-AI/StableLM
 
 Make sure Cuda is installed.
+```
+Install from here if you dont have it
+https://pytorch.org/get-started/locally/
+```
 i would recoment to use anaconda or miniconda
 
 install:
